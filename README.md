@@ -1,2 +1,2 @@
 # password-checker
-Secure way to check if your password has been hacked
+A secure way to check if your password has been hacked
